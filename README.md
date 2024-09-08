@@ -1,4 +1,4 @@
-Sobre Mim
+
 Sou Marcos Vinicius Pinheiro de Jesus, tenho 20 anos e sou de Ibirité - Belo Horizonte. Atualmente, trabalho como jovem aprendiz na Stellantis e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Concluí o curso técnico em Informática na Escola Técnica Sandoval Soares de Azevedo.
 
 Habilidades
