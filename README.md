@@ -23,7 +23,7 @@ Estou em busca da minha primeira posição como desenvolvedor front-end, em mode
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [Fylo Design](https://github.com/MarcosVinicin/fylo-desing) · [ao vivo](https://fylo-desing.vercel.app) | Recriação responsiva de uma landing page, para praticar HTML semântico, CSS e organização de código | HTML, CSS |
+| [Fylo Design](https://github.com/MarcosVinicin/fylo-design) · [ao vivo](https://fylo-desing.vercel.app) | Recriação responsiva de uma landing page, para praticar HTML semântico, CSS e organização de código | HTML, CSS |
 | [Prontuário Eletrônico](https://github.com/MarcosVinicin/prontuario-eletronico) · [ao vivo](https://prontuario-eletronico-liart.vercel.app) | Formulário de registro de prontuário de enfermagem integrado a uma API REST própria | HTML, CSS, JavaScript, Node.js/Express |
 | [Chá de Casa Nova](https://github.com/MarcosVinicin/Cha-de-Panela) · [ao vivo](https://cha-de-panela-psi.vercel.app) | Página de convite para um evento | HTML, CSS |
 
