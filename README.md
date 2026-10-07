@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos Vinicius 👋
 
-**Desenvolvedor Front-end Júnior** | Ibirité, MG | Cursando Análise e Desenvolvimento de Sistemas (Anhanguera)
+**Desenvolvedor Front-end Júnior** | Ibirité, MG | Formado em Análise e Desenvolvimento de Sistemas (Anhanguera)
 
 Construo landing pages e interfaces responsivas com HTML, CSS e JavaScript, e conecto formulários, sites e CRM por meio de webhooks e APIs. Hoje trabalho com desenvolvimento web e automação de CRM (Bitrix24 e WordPress) na Elementari Inteligência Contábil. Uso IA como ferramenta para desenvolver, revisar e documentar código, e sempre testo e entendo o que entrego.
 
